@@ -1,5 +1,4 @@
-# The DAOWO Open Score
-for artworld commoning
+# The DAOWO Open Score for artworld commoning
 
 Decentralised Autonomous Organisation With Others (DAOWO) is the second wave of global artworld restructuring against the toxic cult of the individual-artistic genius. This action first found expression in the punk spirit of networked collaboration called DIWO (Do It With Others). 
 
